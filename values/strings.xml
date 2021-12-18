@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">practicech4</string>
+    <string name="welcome">Welcome to java quiz</string>
+    <string name="q1">Java was introduced in 1993</string>
+    <string name="q2">The founder of Java was</string>
+    <string name="q2op1">Dennis Ritchie</string>
+    <string name="q2op2">James Gosling</string>
+    <string name="q2op3">Bjarne Stroustrup</string>
+    <string name="q2op4">Ryan Gosling</string>
+    <string name="next">Next Question</string>
+    <string name="q3">The complexity of the following code is:
+    for(int i=0 i&lt; n i*=2)\n
+        {\n
+        c++\n
+        }\n
+
+    </string>
+    <string name="q3op1">O(n^2)</string>
+    <string name="q3op2">O(n)</string>
+    <string name="q3op3">O(logn)</string>
+    <string name="q3op4">O(beta mauj kardi)</string>
+    <string name="result">See result</string>
+
+</resources>
